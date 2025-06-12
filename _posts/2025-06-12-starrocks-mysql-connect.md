@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Starrocks Mysql Connect"
-date: 2025-06-09
+date: 2025-06-12
 categories: [Development, Starrocks]
-tags: [starrocks, tuning]
+tags: [starrocks, architecture]
 ---
 
 +-------------------------------------------------+     
